@@ -55,7 +55,7 @@
     "webpack-cli": "3.3.10"
   },
   "dependencies": {
-    "@walletconnect/core": "^1.0.16",
+    "@walletconnect/core": "^2.0.0",
     "@walletconnect/iso-crypto": "^1.0.16",
     "@walletconnect/types": "^1.0.16",
     "@walletconnect/utils": "^1.0.16"
